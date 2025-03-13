@@ -20,7 +20,7 @@ int main()
 
 int main()
 {
-    int a, b;
+    int a, b ;
     printf("Podaj pierwsza liczbe\n";
     scanf("%d",a);
     printf("Podaj druga liczbe\n";
